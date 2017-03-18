@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBorder">#FF9900</color>
+    <color name="colorBorderDark">#714400</color>
+    <color name="colorScrnBg">#001100</color>
+    <color name="bg0">#001100</color>
+    <color name="bg1">#002200</color>
+    <color name="bg2">#003300</color>
+    <color name="bg3">#004400</color>
+    <color name="bg4">#005500</color>
+    <color name="bg5">#006600</color>
+    <color name="bg6">#007700</color>
+    <color name="bg7">#008800</color>
+    <color name="bg8">#009900</color>
+    <color name="bg9">#00aa00</color>
+    <color name="bg10">#00bb00</color>
+    <color name="bg11">#00cc00</color>
+    <color name="bg12">#00dd00</color>
+    <color name="bg13">#00ee00</color>
+    <color name="bg14">#00ff00</color>
+
+</resources>
